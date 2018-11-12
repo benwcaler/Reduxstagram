@@ -1,5 +1,6 @@
 function comments(state = [], action) {
-  return null;
+
+  return state;
 }
 
 export default comments;
